@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/alcaldia"
+        android:title="Alcaldia" />
+
+    <item
+        android:id="@+id/parque"
+        android:title="Parque"/>
+    <item
+        android:id="@+id/biblioteca"
+        android:title="Biblioteca" />
+    <item
+        android:id="@+id/universidad"
+        android:title="universidad"/>
+
+    <item
+        android:id="@+id/turistico"
+        android:title="Sitio turístico."/>
+
+</menu>
